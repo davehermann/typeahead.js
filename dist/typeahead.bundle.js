@@ -1,3 +1,5 @@
+/* */
+"format global";
 /*!
  * typeahead.js 0.11.1
  * https://github.com/twitter/typeahead.js
